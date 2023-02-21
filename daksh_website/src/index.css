@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  font: helvetica;
+}
+
+h {
+  font-family: helvetica;
+}
+
+.container {
+  display: inline-block;
+  text-align: left;
+}
+
+.header {
+  padding: 10%;
+  font-family: Helvetica;
+}
+
+.header h1 {
+  margin: 0;
+  padding-bottom: 5%;
+  font-size: 100px;
+}
+
+.header p {
+  margin: 0 0 20px;
+}
+
+.social-links {
+  display: flex;
+}
+
+.social-links a {
+  margin-right: 10px;
+}
+
+.social-links i {
+  font-size: 24px;
+}
+
+.social-links img {
+  width: 30px;
+  padding-right: 20px;
+}
+
+img {
+  width: 30%;
+}
+
